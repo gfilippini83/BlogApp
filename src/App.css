@@ -1,6 +1,11 @@
 .App {
   text-align: center;
 }
+.Main {
+  background-image: url(./assets/golfball.png);
+  background-size: 100px;
+  min-height: 2000px;
+}
 
 .App-logo {
   height: 40vmin;

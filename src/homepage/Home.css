@@ -1,0 +1,20 @@
+.Jumbo {
+    background-image: url(../assets/Pro-Shop-banner.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+
+.Verticle {
+    border-left: 6px solid black;
+    height: 500px;
+  }
+
+.Buttons {
+    float: right;
+}
+
+.Left {
+    margin-right: 20px
+}
